@@ -1,0 +1,250 @@
+Unique ID,budget,company,country,director,genre,gross,name,rating,released,runtime,score,star,writer,year
+1,8000000,Columbia Pictures Corporation,USA,Rob Reiner,Adventure,52287414,Stand by Me,R,8/22/86,89,8.1,Wil Wheaton,Stephen King,1986
+2,15000000,Paramount Pictures,USA,Tony Scott,Action,179800601,Top Gun,PG,5/16/86,110,6.9,Tom Cruise,Jim Cash,1986
+3,18500000,Twentieth Century Fox Film Corporation,USA,James Cameron,Action,85160248,Aliens,R,7/18/86,137,8.4,Sigourney Weaver,James Cameron,1986
+4,6000000,Paramount Pictures,USA,John Hughes,Comedy,70136369,Ferris Bueller's Day Off,PG-13,6/11/86,103,7.8,Matthew Broderick,John Hughes,1986
+5,9000000,Paramount Pictures,USA,Howard Deutch,Comedy,40471663,Pretty in Pink,PG-13,2/28/86,96,6.8,Molly Ringwald,John Hughes,1986
+6,6000000,Hemdale,UK,Oliver Stone,Drama,138530565,Platoon,R,2/6/87,120,8.1,Charlie Sheen,Oliver Stone,1986
+7,6000000,De Laurentiis Entertainment Group (DEG),USA,David Lynch,Drama,8551228,Blue Velvet,R,10/23/86,120,7.8,Isabella Rossellini,David Lynch,1986
+8,10000000,De Laurentiis Entertainment Group (DEG),USA,Stephen King,Action,7433663,Maximum Overdrive,R,7/25/86,98,5.4,Emilio Estevez,Stephen King,1986
+9,25000000,Henson Associates (HA),UK,Jim Henson,Adventure,12729917,Labyrinth,PG,6/27/86,101,7.4,David Bowie,Dennis Lee,1986
+10,8800000,Rimfire Films,Australia,Peter Faiman,Adventure,174635000,Crocodile Dundee,PG-13,9/26/86,97,6.5,Paul Hogan,Ken Shadie,1986
+11,16000000,Thorn EMI Screen Entertainment,UK,Russell Mulcahy,Action,5900000,Highlander,R,3/7/86,116,7.2,Christopher Lambert,Gregory Widen,1986
+12,15000000,SLM Production Group,USA,David Cronenberg,Drama,40456565,The Fly,R,8/15/86,96,7.5,Jeff Goldblum,George Langelaan,1986
+13,25000000,Twentieth Century Fox Film Corporation,USA,John Carpenter,Action,11100000,Big Trouble in Little China,PG-13,7/2/86,99,7.3,Kurt Russell,Gary Goldman,1986
+14,15000000,De Laurentiis Entertainment Group (DEG),USA,Michael Mann,Crime,8620929,Manhunter,R,8/15/86,120,7.2,William Petersen,Thomas Harris,1986
+15,17000000,Producers Sales Organization (PSO),USA,Adrian Lyne,Drama,6734844,9_ Weeks,R,2/21/86,117,5.9,Mickey Rourke,Elizabeth McNeill,1986
+16,10000000,Amblin Entertainment,USA,Richard Benjamin,Comedy,37499651,The Money Pit,PG,3/26/86,91,6.3,Tom Hanks,David Giler,1986
+17,4700000,Cannon Films,USA,Tobe Hooper,Comedy,8025872,The Texas Chainsaw Massacre 2,UNRATED,8/22/86,89,5.6,Dennis Hopper,L.M. Kit Carson,1986
+18,25000000,"Geffen Company, The",USA,Frank Oz,Comedy,38747385,Little Shop of Horrors,PG-13,12/19/86,94,6.9,Rick Moranis,Howard Ashman,1986
+19,25000000,Paramount Pictures,USA,Michael Ritchie,Action,79817937,The Golden Child,PG-13,12/12/86,94,5.9,Eddie Murphy,Dennis Feldman,1986
+20,35000000,Universal Pictures,USA,Willard Huyck,Action,16295774,Howard the Duck,PG,8/1/86,110,4.6,Lea Thompson,Steve Gerber,1986
+21,0,Columbia Pictures Corporation,USA,John G. Avildsen,Action,115103979,The Karate Kid Part II,PG,6/20/86,113,5.9,Pat Morita,Robert Mark Kamen,1986
+22,2700000,New Century Entertainment Corporation,USA,Mike Marvin,Action,3500000,The Wraith,PG-13,11/21/86,93,5.9,Charlie Sheen,Mike Marvin,1986
+23,0,TriStar Pictures,USA,John Badham,Comedy,40697761,Short Circuit,PG,5/9/86,98,6.6,Ally Sheedy,S.S. Wilson,1986
+24,6000000,Twentieth Century Fox Film Corporation,USA,David Seltzer,Comedy,8200000,Lucas,PG-13,3/28/86,100,6.8,Corey Haim,David Seltzer,1986
+25,2000000,New Line Cinema,USA,Stephen Herek,Action,13167232,Critters,PG-13,4/11/86,82,6,Dee Wallace,Domonic Muir,1986
+26,0,Neue Constantin Film,Italy,Jean-Jacques Annaud,Crime,7153487,The Name of the Rose,R,9/24/86,130,7.8,Sean Connery,Umberto Eco,1986
+27,9000000,Walt Disney Pictures,USA,Randal Kleiser,Adventure,18564613,Flight of the Navigator,PG,8/1/86,90,6.9,Joey Cramer,Mark H. Baker,1986
+28,25000000,L.A. Films,USA,John Landis,Comedy,39246734,çThree Amigos!,PG,12/12/86,104,6.4,Steve Martin,Steve Martin,1986
+29,25000000,Warner Bros.,USA,George P. Cosmatos,Action,49042224,Cobra,R,5/23/86,87,5.7,Sylvester Stallone,Paula Gosling,1986
+30,24500000,Warner Bros.,UK,Roland Joff_,Adventure,17218023,The Mission,PG,10/31/86,125,7.5,Robert De Niro,Robert Bolt,1986
+31,15000000,Jay Weston Productions,USA,Clint Eastwood,Action,42724017,Heartbreak Ridge,R,12/5/86,130,6.8,Clint Eastwood,James Carabatsos,1986
+32,13800000,Touchstone Pictures,USA,Martin Scorsese,Drama,52293982,The Color of Money,R,10/17/86,119,7,Paul Newman,Walter Tevis,1986
+33,1900000,Hemdale,USA,Tim Hunter,Crime,4600000,River's Edge,R,5/8/87,99,7.1,Crispin Glover,Neal Jimenez,1986
+34,3000000,Paramount Pictures,USA,Tom McLoughlin,Horror,19472057,Jason Lives: Friday the 13th Part VI,R,8/1/86,86,5.9,Thom Mathews,Tom McLoughlin,1986
+35,12000000,Cannon Pictures,USA,Tobe Hooper,Horror,4884663,Invaders from Mars,PG,6/6/86,100,5.5,Karen Black,Richard Blake,1986
+36,0,Metro-Goldwyn-Mayer (MGM),USA,Peter Hyams,Action,38500726,Running Scared,R,6/27/86,107,6.5,Gregory Hines,Gary DeVore,1986
+37,6000000,HBO Films,USA,Robert Harmon,Thriller,5844868,The Hitcher,R,2/21/86,97,7.3,Rutger Hauer,Eric Red,1986
+38,0,Universal Pictures,USA,Don Bluth,Animation,47483002,An American Tail,G,11/21/86,80,6.9,Dom DeLuise,Judy Freudberg,1986
+39,4000000,Initial Pictures,UK,Alex Cox,Biography,2826523,Sid and Nancy,R,11/7/86,112,7.1,Gary Oldman,Alex Cox,1986
+40,25000000,Paramount Pictures,USA,Leonard Nimoy,Adventure,109713132,Star Trek IV: The Voyage Home,PG,11/26/86,119,7.3,William Shatner,Gene Roddenberry,1986
+41,25000000,The Saul Zaentz Company,USA,Peter Weir,Adventure,14302779,The Mosquito Coast,PG,11/26/86,117,6.6,Harrison Ford,Paul Theroux,1986
+42,18000000,TriStar Pictures,USA,Francis Ford Coppola,Comedy,41382841,Peggy Sue Got Married,PG-13,10/10/86,103,6.3,Kathleen Turner,Jerry Leichtling,1986
+43,11000000,Orion Pictures,USA,Alan Metter,Comedy,91258000,Back to School,PG-13,6/13/86,96,6.6,Rodney Dangerfield,Rodney Dangerfield,1986
+44,4500000,Empire Pictures,USA,Stuart Gordon,Horror,1261000,From Beyond,R,10/24/86,86,6.7,Jeffrey Combs,H.P. Lovecraft,1986
+45,1100000,Empire Pictures,USA,John Carl Buechler,Comedy,5450815,Troll,PG-13,1/17/86,82,4.3,Michael Moriarty,Ed Naha,1986
+46,6400000,Orion Pictures,USA,Woody Allen,Comedy,40084041,Hannah and Her Sisters,PG-13,3/14/86,107,8,Mia Farrow,Woody Allen,1986
+47,0,TaliaFilm II Productions,USA,Hal Needham,Drama,2015882,Rad,PG,3/28/86,91,7.2,Bart Conner,Sam Bernard,1986
+48,0,Columbia Pictures Corporation,USA,Walter Hill,Drama,5839031,Crossroads,R,3/14/86,99,7.1,Ralph Macchio,John Fusco,1986
+49,0,Gaumont,France,Jean-Jacques Beineix,Drama,2003822,Betty Blue,Not Rated,11/7/86,120,7.4,Jean-Hugues Anglade,Philippe Djian,1986
+50,6000000,Sunbow Productions,USA,Nelson Shin,Animation,5849647,The Transformers: The Movie,PG,8/8/86,84,7.3,Orson Welles,Ron Friedman,1986
+51,6000000,De Haven Productions,UK,David Anspaugh,Drama,28607524,Hoosiers,PG,2/27/87,114,7.6,Gene Hackman,Angelo Pizzo,1986
+52,18000000,Gladden Entertainment,USA,Marshall Brickman,Sci-Fi,3900000,The Manhattan Project,PG-13,6/13/86,117,6.1,John Lithgow,Marshall Brickman,1986
+53,111000,Maljack Productions,USA,John McNaughton,Biography,609939,Henry: Portrait of a Serial Killer,UNRATED,9/7/90,83,7,Michael Rooker,Richard Fire,1986
+54,14000000,Walt Disney Pictures,USA,Ron Clements,Animation,38600000,The Great Mouse Detective,G,7/2/86,74,7.2,Vincent Price,Peter Young,1986
+55,18000000,Paramount Pictures,USA,Ron Howard,Comedy,36611610,Gung Ho,PG-13,3/14/86,112,6.2,Michael Keaton,Edwin Blum,1986
+56,0,Hawn / Sylbert Movie Company,USA,Michael Ritchie,Comedy,26285544,Wildcats,R,2/14/86,106,5.9,Goldie Hawn,Ezra Sacks,1986
+57,10000000,De Laurentiis Entertainment Group (DEG),USA,John Guillermin,Action,4711220,King Kong Lives,PG-13,12/19/86,105,3.8,Brian Kerwin,Ronald Shusett,1986
+58,0,Svenska Filminstitutet (SFI),Sweden,Andrei Tarkovsky,Drama,300653,Sacrifice,PG,1986-11,149,8.1,Erland Josephson,Andrei Tarkovsky,1986
+59,0,A&M; Films,USA,Savage Steve Holland,Comedy,13431806,One Crazy Summer,PG,8/8/86,93,6.4,John Cusack,Savage Steve Holland,1986
+60,19000000,Freddie Fields Productions,USA,Brian Gibson,Horror,40996665,Poltergeist II: The Other Side,PG-13,5/23/86,91,5.7,JoBeth Williams,Mark Victor,1986
+61,8500000,De Laurentiis Entertainment Group (DEG),USA,John Irvin,Action,16209459,Raw Deal,R,6/6/86,106,5.5,Arnold Schwarzenegger,Luciano Vincenzoni,1986
+62,12000000,Golan-Globus Productions,USA,Menahem Golan,Action,17768900,The Delta Force,R,2/14/86,125,5.6,Chuck Norris,James Bruner,1986
+63,6500000,Cinema '85,USA,James Foley,Crime,2347000,At Close Range,R,4/18/86,111,7,Sean Penn,Elliott Lewitt,1986
+64,0,Paramount Pictures,USA,Randa Haines,Drama,31853080,Children of a Lesser God,R,10/31/86,119,7.2,William Hurt,Mark Medoff,1986
+65,0,TriStar Pictures,USA,Sidney J. Furie,Action,24159872,Iron Eagle,PG-13,1/17/86,117,5.3,Louis Gossett Jr.,Kevin Alyn Elders,1986
+66,18000000,ABC Motion Pictures,USA,Harry Winer,Adventure,9697739,SpaceCamp,PG,6/6/86,107,5.6,Kate Capshaw,Clifford Green,1986
+67,5000000,TriStar Pictures,USA,Fred Dekker,Comedy,591366,Night of the Creeps,R,8/22/86,88,6.8,Jason Lively,Fred Dekker,1986
+68,175000,40 Acres & A Mule Filmworks,USA,Spike Lee,Comedy,7137502,She's Gotta Have It,R,8/8/86,84,6.6,Tracy Camilla Johns,Spike Lee,1986
+69,0,Lorimar Productions,USA,Nick Castle,Drama,7177431,The Boy Who Could Fly,PG,9/26/86,114,6.5,Lucy Deakins,Nick Castle,1986
+70,0,Blueline Productions,USA,Peter Markle,Drama,15448384,Youngblood,R,1/31/86,110,6.1,Rob Lowe,Peter Markle,1986
+71,0,Seasonal Film Corporation,USA,Corey Yuen,Action,4662137,"No Retreat, No Surrender",PG,5/2/86,85,5.6,Kurt McKinney,See-Yuen Ng,1986
+72,0,Warner Bros.,USA,Wes Craven,Drama,8988731,Deadly Friend,R,10/10/86,91,5.5,Matthew Labyorteaux,Diana Henstell,1986
+73,15000000,Warner Bros.,USA,Michael Chapman,Adventure,1953732,The Clan of the Cave Bear,R,1/17/86,98,5.3,Daryl Hannah,Jean M. Auel,1986
+74,1100000,Black Snake,USA,Jim Jarmusch,Comedy,1436000,Down by Law,R,10/30/86,107,7.8,Tom Waits,Jim Jarmusch,1986
+75,0,Touchstone Pictures,USA,Jim Abrahams,Comedy,71624879,Ruthless People,R,6/27/86,93,6.9,Bette Midler,Dale Launer,1986
+76,0,Police Academy Productions,USA,Jerry Paris,Comedy,43579163,Police Academy 3: Back in Training,PG,3/21/86,83,5.2,Steve Guttenberg,Neal Israel,1986
+77,0,TriStar Pictures,USA,Edward Zwick,Comedy,38702310,About Last Night...,R,7/2/86,113,6.2,Rob Lowe,David Mamet,1986
+78,0,Lawrence Gordon Productions,USA,Penny Marshall,Comedy,25587804,Jumpin' Jack Flash,R,10/10/86,105,5.8,Whoopi Goldberg,David Franzoni,1986
+79,20000000,Paramount Pictures,USA,Mike Nichols,Comedy,25314289,Heartburn,R,7/25/86,108,6.1,Meryl Streep,Nora Ephron,1986
+80,0,Religioso Primitiva,USA,Jonathan Demme,Comedy,8362969,Something Wild,R,11/7/86,114,6.9,Jeff Daniels,E. Max Frye,1986
+81,0,Balcor Film Investors,USA,Steve Miner,Comedy,27820000,Soul Man,PG-13,10/24/86,104,5.2,C. Thomas Howell,Carol Black,1986
+82,5000000,Paramount Pictures,USA,Fred Walton,Horror,12947763,April Fool's Day,R,3/28/86,89,6.2,Deborah Foreman,Danilo Bach,1986
+83,0,Universal Pictures,USA,Anthony Perkins,Horror,14481606,Psicosis III,R,7/2/86,93,5.3,Anthony Perkins,Charles Edward Pogue,1986
+84,0,De Laurentiis Entertainment Group (DEG),USA,Charles Martin Smith,Comedy,6797218,Trick or Treat,R,10/24/86,98,5.8,Marc Price,Rhet Topham,1986
+85,25000000,Brooksfilms,USA,Alan Johnson,Action,1579260,Solarbabies,PG-13,11/26/86,94,4.8,Richard Jordan,Walon Green,1986
+86,0,Columbia Pictures Corporation,USA,Thomas Michael Donnelly,Crime,7634909,Quicksilver,PG,2/14/86,105,5.6,Kevin Bacon,Thomas Michael Donnelly,1986
+87,40000000,Carthago Films S.a.r.l.,France,Roman Polanski,Adventure,1641825,Piratas,PG-13,7/18/86,121,6.1,Walter Matthau,John Brownjohn,1986
+88,10000000,Orion Pictures,USA,Robert Mandel,Action,20603715,F/X,R,2/7/86,109,6.7,Bryan Brown,Robert T. Megginson,1986
+89,0,Golan-Globus Productions,USA,Gary Nelson,Action,3751699,Allan Quatermain and the Lost City of Gold,PG,1/30/87,99,4.4,Richard Chamberlain,H. Rider Haggard,1986
+90,0,Fuji Television Network,Japan,Masanori Hata,Adventure,13245219,The Adventures of Milo and Otis,G,8/25/89,90,7.1,Kyªko Koizumi,Masanori Hata,1986
+91,14000000,Touchstone Pictures,USA,Paul Mazursky,Comedy,62134225,Down and Out in Beverly Hills,R,1/31/86,103,6.1,Nick Nolte,Ren_ Fauchois,1986
+92,12000000,Cinema Group Ventures,USA,Roger Spottiswoode,Comedy,7790931,The Best of Times,PG-13,1/31/86,104,5.9,Robin Williams,Ron Shelton,1986
+93,0,Kings Road Entertainment,USA,Jim McBride,Comedy,17685307,The Big Easy,R,8/28/87,102,6.6,Dennis Quaid,Daniel Petrie Jr.,1986
+94,10000000,Touchstone Pictures,USA,Jeff Kanew,Comedy,21458229,Tough Guys,PG,10/3/86,104,6.2,Burt Lancaster,James Orr,1986
+95,0,New World Pictures,USA,Harley Cokeliss,Action,6637565,Black Moon Rising,R,1/10/86,100,5.4,Tommy Lee Jones,John Carpenter,1986
+96,0,Meltdown Productions,UK,Jimmy T. Murakami,Animation,5274,When the Wind Blows,Not Rated,3/11/88,80,7.8,Peggy Ashcroft,Raymond Briggs,1986
+97,12000000,Columbia Pictures Corporation,USA,Mark L. Lester,Action,15945534,Armed and Dangerous,PG-13,8/15/86,88,5.5,John Candy,Brian Grazer,1986
+98,0,Empire Pictures,USA,Ted Nicolaou,Comedy,320256,TerrorVision,R,2/14/86,83,5.7,Diane Franklin,Ted Nicolaou,1986
+99,3300000,Amaretto Films,USA,Richard Wenk,Comedy,4941117,Vamp,R,7/18/86,93,5.9,Chris Makepeace,Donald P. Borchers,1986
+100,0,Virgin Vision,UK,Ken Russell,Horror,916172,Gothic,R,4/10/87,87,5.7,Gabriel Byrne,Lord Byron,1986
+101,16000000,Act III Communications,USA,Rob Reiner,Adventure,30857814,The Princess Bride,PG,10/9/87,98,8.1,Cary Elwes,William Goldman,1987
+102,15000000,Amercent Films,USA,John McTiernan,Action,59735548,Predator,R,6/12/87,107,7.8,Arnold Schwarzenegger,Jim Thomas,1987
+103,30000000,Natant,UK,Stanley Kubrick,Drama,46357676,Full Metal Jacket,R,7/10/87,116,8.3,Matthew Modine,Gustav Hasford,1987
+104,6000000,Great American Films Limited Partnership,USA,Emile Ardolino,Drama,63952836,Dirty Dancing,PG-13,8/21/87,100,6.9,Patrick Swayze,Eleanor Bergstein,1987
+105,14000000,Paramount Pictures,USA,Adrian Lyne,Drama,156645693,Fatal Attraction,R,9/18/87,119,6.9,Michael Douglas,James Dearden,1987
+106,0,Warner Bros.,USA,Joel Schumacher,Comedy,32222567,The Lost Boys,R,7/31/87,97,7.3,Jason Patric,Jan Fischer,1987
+107,0,Hughes Entertainment,USA,Howard Deutch,Drama,18553948,Some Kind of Wonderful,PG-13,2/27/87,95,7.1,Eric Stoltz,John Hughes,1987
+108,13000000,Orion Pictures,USA,Paul Verhoeven,Action,53424681,RoboCop,R,7/17/87,102,7.5,Peter Weller,Edward Neumeier,1987
+109,1000000,Cinemarque Entertainment BV,UK,Clive Barker,Horror,14564027,Hellraiser,R,9/18/87,94,7,Andrew Robinson,Clive Barker,1987
+110,22700000,Brooksfilms,USA,Mel Brooks,Adventure,38119483,Spaceballs,PG,6/24/87,96,7.1,Mel Brooks,Mel Brooks,1987
+111,25000000,Paramount Pictures,USA,Brian De Palma,Crime,76270454,The Untouchables,R,6/3/87,119,7.9,Kevin Costner,Oscar Fraley,1987
+112,27000000,Braveworld Productions,USA,Paul Michael Glaser,Action,38122105,The Running Man,R,11/13/87,101,6.6,Arnold Schwarzenegger,Stephen King,1987
+113,12000000,Home Box Office (HBO),USA,Fred Dekker,Action,3769990,The Monster Squad,PG-13,8/14/87,82,7.2,Andre Gower,Shane Black,1987
+114,15000000,Warner Bros.,USA,Richard Donner,Action,65207127,Lethal Weapon,R,3/6/87,110,7.6,Mel Gibson,Shane Black,1987
+115,22000000,Golan-Globus Productions,USA,Gary Goddard,Action,17336370,Masters of the Universe,PG,8/7/87,106,5.4,Dolph Lundgren,David Odell,1987
+116,0,Apollo Pictures,USA,Steve Rash,Comedy,31623833,Can't Buy Me Love,PG-13,8/14/87,94,6.7,Patrick Dempsey,Michael Swerdlick,1987
+117,35000000,Amblin Entertainment,USA,Steven Spielberg,Drama,22238696,Empire of the Sun,PG,12/25/87,153,7.8,Christian Bale,Tom Stoppard,1987
+118,22000000,Warner Bros.,USA,George Miller,Comedy,63766510,The Witches of Eastwick,R,6/12/87,118,6.5,Jack Nicholson,John Updike,1987
+119,4500000,New Line Cinema,USA,Chuck Russell,Action,44793222,A Nightmare on Elm Street 3: Dream Warriors,R,2/27/87,96,6.6,Heather Langenkamp,Wes Craven,1987
+120,0,Touchstone Pictures,USA,Chris Columbus,Action,34368475,Adventures in Babysitting,PG-13,7/3/87,102,6.9,Elisabeth Shue,David Simkins,1987
+121,23000000,Universal Pictures,USA,Joseph Sargent,Adventure,20763013,Jaws: The Revenge,PG-13,7/17/87,89,2.9,Lorraine Gary,Peter Benchley,1987
+122,3600000,De Laurentiis Entertainment Group (DEG),USA,Sam Raimi,Comedy,5923044,Evil Dead II,R,3/13/87,84,7.8,Bruce Campbell,Sam Raimi,1987
+123,30000000,Eon Productions,UK,John Glen,Action,51185897,The Living Daylights,PG,7/31/87,130,6.7,Timothy Dalton,Richard Maibaum,1987
+124,15000000,Twentieth Century Fox Film Corporation,USA,Oliver Stone,Crime,43848100,Wall Street,R,12/11/87,126,7.4,Charlie Sheen,Stanley Weiser,1987
+125,17000000,Carolco International N.V.,UK,Alan Parker,Horror,17185632,Angel Heart,R,3/6/87,113,7.3,Mickey Rourke,William Hjortsberg,1987
+126,6000000,Circle Films,USA,Joel Coen,Comedy,22847564,Raising Arizona,PG-13,4/17/87,94,7.4,Nicolas Cage,Ethan Coen,1987
+127,0,Hawn / Sylbert Movie Company,USA,Garry Marshall,Comedy,26713187,Overboard,PG,12/16/87,106,6.8,Goldie Hawn,Leslie Dixon,1987
+128,25000000,Cannon Group,USA,Menahem Golan,Action,16057580,Over the Top,PG,2/13/87,93,5.7,Sylvester Stallone,Gary Conway,1987
+129,6000000,Gladden Entertainment,USA,Michael Gottlieb,Comedy,42721196,Mannequin,PG,2/13/87,90,5.8,Andrew McCarthy,Edward Rugoff,1987
+130,27000000,Warner Bros.,USA,Joe Dante,Action,25893810,Innerspace,PG,7/1/87,120,6.8,Dennis Quaid,Chip Proser,1987
+131,0,Paramount Pictures,USA,Carl Reiner,Comedy,35658098,Summer School,PG-13,7/22/87,97,6.5,Mark Harmon,Stuart Birnbaum,1987
+132,0,RKO Pictures,USA,John Irvin,Action,13839404,Hamburger Hill,R,8/28/87,110,6.7,Anthony Barrile,James Carabatsos,1987
+133,13000000,Touchstone Pictures,USA,Barry Levinson,Biography,123922370,"Good Morning, Vietnam",R,1/15/88,121,7.3,Robin Williams,Mitch Markowitz,1987
+134,30000000,Paramount Pictures,USA,John Hughes,Comedy,49530280,"Planes, Trains & Automobiles",R,11/25/87,93,7.6,Steve Martin,John Hughes,1987
+135,28000000,Paramount Pictures,USA,Tony Scott,Action,153665000,Beverly Hills Cop II,R,5/20/87,100,6.5,Eddie Murphy,Danilo Bach,1987
+136,11000000,Interscope Communications,USA,Leonard Nimoy,Comedy,167780960,3 Men and a Baby,PG,11/25/87,102,5.9,Tom Selleck,Coline Serreau,1987
+137,0,Amblin Entertainment,USA,William Dear,Comedy,29760613,Harry and the Hendersons,PG,6/5/87,110,5.9,John Lithgow,William Dear,1987
+138,0,Road Movies Filmproduktion,West Germany,Wim Wenders,Drama,3210139,Wings of Desire,PG-13,5/6/88,128,8.1,Bruno Ganz,Wim Wenders,1987
+139,5000000,F/M,USA,Kathryn Bigelow,Action,3369307,Near Dark,R,1988,94,7,Adrian Pasdar,Kathryn Bigelow,1987
+140,2600000,Merchant Ivory Productions,UK,James Ivory,Drama,3130592,Maurice,R,9/18/87,140,7.7,James Wilby,E.M. Forster,1987
+141,12000000,Rastar Pictures,USA,Herbert Ross,Comedy,66995879,The Secret of My Succe$s,PG-13,4/10/87,111,6.5,Michael J. Fox,Jim Cash,1987
+142,15000000,Metro-Goldwyn-Mayer (MGM),USA,Norman Jewison,Comedy,80640528,Moonstruck,PG,1/15/88,102,7.1,Cher,John Patrick Shanley,1987
+143,6500000,Columbia Pictures Corporation,USA,Luis Valdez,Biography,54215416,La Bamba,PG-13,7/24/87,108,6.8,Lou Diamond Phillips,Luis Valdez,1987
+144,23000000,Recorded Picture Company (RPC),UK,Bernardo Bertolucci,Biography,43984230,The Last Emperor,PG-13,4/15/88,163,7.8,John Lone,Mark Peploe,1987
+145,15000000,Orion Pictures,USA,Roger Donaldson,Action,35509515,No Way Out,R,8/14/87,114,7.1,Kevin Costner,Kenneth Fearing,1987
+146,3000000,Alive Films,USA,John Carpenter,Horror,14182492,Prince of Darkness,R,10/23/87,102,6.7,Donald Pleasence,John Carpenter,1987
+147,0,Twentieth Century Fox Film Corporation,USA,Marek Kanievska,Crime,12396383,Less Than Zero,R,11/6/87,98,6.4,Andrew McCarthy,Bret Easton Ellis,1987
+148,0,Universal Pictures,USA,Matthew Robbins,Comedy,32945797,*batteries not included,PG,12/18/87,106,6.6,Hume Cronyn,Mick Garris,1987
+149,3000000,Atlantic Entertainment Group,USA,Christopher Leitch,Comedy,7888703,Teen Wolf Too,PG,11/20/87,95,3.2,Jason Bateman,Jeph Loeb,1987
+150,0,Fries Entertainment,USA,Jeffrey Bloom,Drama,15151736,Flowers in the Attic,PG-13,11/20/87,93,5.7,Louise Fletcher,Virginia C. Andrews,1987
+151,0,United Artists,USA,Charles Shyer,Comedy,26712476,Baby Boom,PG,10/30/87,110,6.1,Diane Keaton,Nancy Meyers,1987
+152,0,Cineplex-Odeon Films,UK,Bruce Robinson,Comedy,1544889,Withnail & I,R,6/19/87,107,7.8,Richard E. Grant,Bruce Robinson,1987
+153,3500000,Laurel Entertainment Inc.,USA,Michael Gornick,Comedy,14000000,Creepshow 2,R,5/1/87,92,6,George Kennedy,Stephen King,1987
+154,2500000,New Century Entertainment Corporation,Canada,Tibor Takàcs,Fantasy,13539458,TÏnel al infierno,PG-13,5/15/87,85,6,Stephen Dorff,Michael Nankin,1987
+155,12000000,Columbia Pictures Industries,USA,Fred Schepisi,Comedy,40050884,Roxanne,PG,6/19/87,107,6.6,Steve Martin,Edmond Rostand,1987
+156,18000000,TriStar Pictures,USA,Blake Edwards,Comedy,39321715,Blind Date,PG-13,3/27/87,95,5.9,Kim Basinger,Dale Launer,1987
+157,0,Lightyear Entertainment,UK,Robert Altman,Comedy,1028679,Aria,R,10/30/87,90,5.8,John Hurt,Robert Altman,1987
+158,17000000,Cannon Films,UK,Sidney J. Furie,Action,15681020,Superman IV: The Quest for Peace,PG,7/24/87,90,3.6,Christopher Reeve,Joe Shuster,1987
+159,20000000,Applied Action,USA,Tom Mankiewicz,Comedy,57387516,Dragnet,PG-13,6/26/87,106,5.9,Dan Aykroyd,Dan Aykroyd,1987
+160,14000000,Orion Pictures,USA,Danny DeVito,Comedy,57915972,Throw Momma from the Train,PG-13,12/11/87,88,6.2,Danny DeVito,Stu Silver,1987
+161,1000000,Atlantic Entertainment Group,USA,Rod Amateau,Adventure,1576615,The Garbage Pail Kids Movie,PG,8/22/87,100,2.7,Anthony Newley,Linda Palmer,1987
+162,0,Heron Communications,USA,Jack Sholder,Action,9747988,The Hidden,R,10/30/87,96,7,Kyle MacLachlan,Jim Kouf,1987
+163,0,TriStar Pictures,USA,Christopher Cain,Action,19734940,The Principal,R,9/18/87,109,6.2,James Belushi,Frank Deese,1987
+164,3000000,Golan-Globus Productions,USA,Barbet Schroeder,Comedy,3221568,Barfly,R,10/16/87,100,7.3,Mickey Rourke,Charles Bukowski,1987
+165,20000000,Amercent Films,USA,James L. Brooks,Comedy,51249404,Broadcast News,R,12/25/87,133,7.2,William Hurt,James L. Brooks,1987
+166,0,British Screen Productions,UK,Alan Clarke,Comedy,124167,"Rita, Sue and Bob Too",R,5/29/87,93,6.4,Siobhan Finneran,Andrea Dunbar,1987
+167,0,Warner Bros.,USA,Jim Drake,Comedy,28061343,Police Academy 4: Citizens on Patrol,PG,4/3/87,88,4.8,Steve Guttenberg,Neal Israel,1987
+168,0,New World Pictures,USA,Ethan Wiley,Comedy,7800000,House II: The Second Story,PG-13,8/28/87,88,5.4,Arye Gross,Fred Dekker,1987
+169,15000000,Amercent Films,USA,James Toback,Comedy,13290368,The Pick-up Artist,PG-13,9/18/87,81,5.2,Molly Ringwald,James Toback,1987
+170,0,Universal Pictures,USA,Joe Dante,Comedy,548696,Amazon Women on the Moon,R,9/18/87,85,6.2,Rosanna Arquette,Michael Barrie,1987
+171,0,Incorporated Television Company (ITC),UK,Joseph Ruben,Horror,2488740,The Stepfather,R,6/5/87,89,6.8,Terry O'Quinn,Carolyn Lefcourt,1987
+172,0,Panorama Film A/S,Denmark,Gabriel Axel,Comedy,4398938,Babette's Feast,G,3/4/88,102,7.8,St_phane Audran,Karen Blixen,1987
+173,0,Orion Pictures,USA,John Schlesinger,Crime,18753438,The Believers,R,6/10/87,114,6.1,Martin Sheen,Mark Frost,1987
+174,16000000,Orion Pictures,USA,Woody Allen,Comedy,14792779,Radio Days,PG,1/30/87,88,7.6,Mia Farrow,Woody Allen,1987
+175,6000000,Universal Pictures,USA,Phil Joanou,Comedy,3685862,Three O'Clock High,PG-13,10/9/87,97,7.2,Casey Siemaszko,Richard Christian Matheson,1987
+176,0,Vista Organization,USA,Robert Collector,Horror,1149470,Nightflyers,R,4/7/88,89,4,Catherine Mary Stewart,George R.R. Martin,1987
+177,3000000,Emshell Producers,USA,John R. Cherry III,Comedy,23509382,Ernest Goes to Camp,PG,5/22/87,92,5.5,Jim Varney,John R. Cherry III,1987
+178,17000000,Columbia Pictures Corporation,USA,Ridley Scott,Crime,10278549,Someone to Watch Over Me,R,10/9/87,106,6.1,Tom Berenger,Howard Franklin,1987
+179,0,Amercent Films,USA,Bob Rafelson,Crime,25205460,Black Widow,R,2/6/87,102,6.3,Debra Winger,Ronald Bass,1987
+180,0,Nouvelles Äditions de Films (NEF),France,Louis Malle,Drama,4542825,Au Revoir les Enfants,PG,2/12/88,104,8,Gaspard Manesse,Louis Malle,1987
+181,0,Twentieth Century Fox Film Corporation,USA,Joe Roth,Comedy,30063289,Revenge of the Nerds II: Nerds in Paradise,PG-13,7/10/87,88,4.9,Robert Carradine,Tim Metcalfe,1987
+182,29000000,Universal Pictures,UK,Richard Attenborough,Biography,5899797,Cry Freedom,PG,11/6/87,157,7.5,Denzel Washington,John Briley,1987
+183,5000000,Cannon Group,USA,J. Lee Thompson,Action,6880310,Death Wish 4: The Crackdown,R,11/6/87,99,5.3,Charles Bronson,Brian Garfield,1987
+184,0,7 Films Cin_ma,France,Älie Chouraqui,Action,519596,Man on Fire,R,9/4/87,87,5.9,Scott Glenn,A.J. Quinnell,1987
+185,0,Zenith Entertainment,UK,Wayne Wang,Mystery,406881,Slam Dance,R,10/2/87,92,5.3,Tom Hulce,Don Keith Opper,1987
+186,0,Touchstone Pictures,USA,John Badham,Action,65673233,Stakeout,R,8/5/87,117,6.6,Richard Dreyfuss,Jim Kouf,1987
+187,6000000,Fourth Protocol,UK,John Mackenzie,Thriller,12423831,The Fourth Protocol,R,8/28/87,119,6.5,Michael Caine,George Axelrod,1987
+188,0,Pelemele Film,West Germany,Percy Adlon,Comedy,3587303,Bagdad Cafe,PG,4/22/88,95,7.5,Marianne S_gebrecht,Eleonore Adlon,1987
+189,0,TAFT Entertainment Pictures,USA,Paul Schrader,Drama,10489617,Light of Day,PG-13,2/6/87,107,5.5,Michael J. Fox,Paul Schrader,1987
+190,0,"Guber-Peters Company, The",USA,James Foley,Comedy,7305209,Who's That Girl,PG,8/7/87,92,4.7,Madonna,Andrew Smith,1987
+191,0,Finnegan/Pinchuk Productions,USA,William Phelps,Action,3832228,North Shore,PG,8/14/87,96,6.5,Matt Adler,William Phelps,1987
+192,0,Columbia Pictures Corporation,UK,John Boorman,Comedy,10021120,Hope and Glory,PG-13,2/19/88,113,7.4,Sarah Miles,John Boorman,1987
+193,27000000,Home Box Office (HBO),USA,Hector Babenco,Drama,7393346,Ironweed,R,2/12/88,143,6.8,Jack Nicholson,William Kennedy,1987
+194,4000000,Cannon Films,USA,Ruggero Deodato,Fantasy,800000,The Barbarians,R,3/20/87,87,4.9,David Paul,Alberto Piferi,1987
+195,0,Marimark Productions,USA,Lawrence Bassoff,Comedy,1749956,Hunk,PG,3/6/87,102,4.6,John Allen Nelson,Lawrence Bassoff,1987
+196,18000000,Amercent Films,USA,Jonathan Kaplan,Comedy,18532286,Project X,PG,4/17/87,108,6.1,Matthew Broderick,Lawrence Lasker,1987
+197,0,Simcom Limited,Canada,Bruce Pittman,Horror,2683519,Prom Night II,R,11/13/87,97,5.6,Lisa Schrage,Ron Oliver,1987
+198,55000000,Columbia Pictures Corporation,USA,Elaine May,Action,14375181,Ishtar,PG-13,5/15/87,107,4.2,Warren Beatty,Elaine May,1987
+199,0,Nelvana,Canada,Hugh Wilson,Comedy,16337355,Burglar,R,3/20/87,103,5,Whoopi Goldberg,Lawrence Block,1987
+200,0,TriStar Pictures,USA,Peter Yates,Crime,18782400,Suspect,R,10/23/87,121,6.6,Cher,Eric Roth,1987
+201,15000000,"Geffen Company, The",USA,Tim Burton,Comedy,73707461,Beetlejuice,PG,3/30/88,92,7.5,Alec Baldwin,Michael McDowell,1988
+202,28000000,Twentieth Century Fox Film Corporation,USA,John McTiernan,Action,83008852,Die Hard,R,7/20/88,131,8.2,Bruce Willis,Roderick Thorp,1988
+203,24000000,Hughes Entertainment,USA,Howard Deutch,Comedy,41455230,The Great Outdoors,PG,6/17/88,91,6.6,Dan Aykroyd,John Hughes,1988
+204,3000000,New World Pictures,USA,Michael Lehmann,Comedy,1108462,Heathers,R,3/31/89,103,7.3,Winona Ryder,Daniel Waters,1988
+205,35000000,Metro-Goldwyn-Mayer (MGM),USA,Ron Howard,Action,57269863,Willow,PG,5/20/88,126,7.3,Val Kilmer,George Lucas,1988
+206,70000000,Touchstone Pictures,USA,Robert Zemeckis,Animation,156452370,Who Framed Roger Rabbit,PG,6/22/88,104,7.7,Bob Hoskins,Gary K. Wolf,1988
+207,25000000,United Artists,USA,Barry Levinson,Drama,172825435,Rain Man,R,12/16/88,133,8,Dustin Hoffman,Barry Morrow,1988
+208,7500000,Ealing Studios,UK,Charles Crichton,Comedy,63493712,A Fish Called Wanda,R,8/5/88,108,7.6,John Cleese,John Cleese,1988
+209,39000000,Eddie Murphy Productions,USA,John Landis,Comedy,128152300,Coming to America,R,6/29/88,116,7,Eddie Murphy,Eddie Murphy,1988
+210,18000000,American Entertainment Partners II L.P.,USA,Penny Marshall,Comedy,114968774,Big,PG,6/3/88,104,7.3,Tom Hanks,Gary Ross,1988
+211,4000000,Alive Films,USA,John Carpenter,Action,13008928,They Live,R,11/4/88,94,7.3,Roddy Piper,Ray Nelson,1988
+212,0,Akira Committee Company Ltd.,Japan,Katsuhiro •tomo,Animation,553171,Akira,R,7/16/88,124,8.1,Nozomu Sasaki,Katsuhiro •tomo,1988
+213,15000000,Universal Pictures,USA,Ivan Reitman,Comedy,111936400,Twins,PG,12/9/88,107,6,Arnold Schwarzenegger,William Davies,1988
+214,9000000,United Artists,USA,Tom Holland,Horror,33244684,Child's Play,R,11/9/88,87,6.6,Catherine Hicks,Don Mancini,1988
+215,2000000,Sarlui / Diamant,USA,Stephen Chiodo,Comedy,15625095,Killer Klowns from Outer Space,PG-13,5/20/88,88,6.1,Grant Cramer,Charles Chiodo,1988
+216,5000000,Cristaldifilm,Italy,Giuseppe Tornatore,Drama,11990401,Cinema Paradiso,R,2/23/90,155,8.5,Philippe Noiret,Giuseppe Tornatore,1988
+217,12000000,Paramount Pictures,USA,David Zucker,Comedy,78041829,The Naked Gun: From the Files of Police Squad!,PG-13,12/2/88,85,7.6,Leslie Nielsen,Jerry Zucker,1988
+218,14000000,Paramount Pictures,Australia,John Cornell,Action,109305000,Crocodile Dundee II,PG,5/25/88,108,5.5,Paul Hogan,Paul Hogan,1988
+219,1100000,Cannon International,USA,Newt Arnold,Action,11806119,Bloodsport,R,4/29/88,92,6.8,Jean-Claude Van Damme,Sheldon Lettich,1988
+220,3500000,De Laurentiis Entertainment Group (DEG),USA,Stan Winston,Fantasy,4385516,Pumpkinhead,R,1/13/89,86,6.2,Lance Henriksen,Ed Justin,1988
+221,7000000,Universal Pictures,Canada,Martin Scorsese,Drama,7630564,The Last Temptation of Christ,R,3/12/04,164,7.6,Willem Dafoe,Nikos Kazantzakis,1988
+222,14000000,Lorimar Film Entertainment,USA,Stephen Frears,Drama,34700000,Dangerous Liaisons,R,2/24/89,119,7.7,Glenn Close,Christopher Hampton,1988
+223,63000000,Carolco Pictures,USA,Peter MacDonald,Action,53715611,Rambo III,R,5/25/88,102,5.7,Sylvester Stallone,David Morrell,1988
+224,3000000,Front Films,USA,Keenen Ivory Wayans,Action,13030057,I'm Gonna Git You Sucka,R,2/23/89,88,6.6,Keenen Ivory Wayans,Keenen Ivory Wayans,1988
+225,28000000,Twentieth Century Fox Film Corporation,USA,Mike Nichols,Comedy,64000000,Working Girl,R,12/21/88,113,6.7,Melanie Griffith,Kevin Wade,1988
+226,30000000,Universal Pictures,USA,Martin Brest,Action,38413606,Midnight Run,R,7/20/88,126,7.6,Robert De Niro,George Gallo,1988
+227,20000000,Touchstone Pictures,USA,Roger Donaldson,Comedy,78222753,Cocktail,R,7/29/88,104,5.8,Tom Cruise,Heywood Gould,1988
+228,29000000,Carolco Pictures,USA,Walter Hill,Action,34994648,Red Heat,R,6/17/88,104,6,Arnold Schwarzenegger,Walter Hill,1988
+229,19000000,TriStar Pictures,USA,Chuck Russell,Horror,8247943,The Blob,R,8/5/88,95,6.4,Shawnee Smith,Theodore Simonson,1988
+230,6000000,Night Life Inc.,USA,Donald Petrie,Comedy,12793213,Mystic Pizza,R,10/21/88,104,6.2,Annabeth Gish,Amy Holden Jones,1988
+231,5000000,Trancas International Films,USA,Dwight H. Little,Horror,17768757,Halloween 4: The Return of Michael Myers,R,10/21/88,88,5.9,Donald Pleasence,Dhani Lipsius,1988
+232,0,All Girl Productions,USA,Garry Marshall,Comedy,57041866,Beaches,PG-13,1/13/89,123,6.8,Bette Midler,Iris Rainer,1988
+233,15000000,Orion Pictures,USA,Alan Parker,Crime,34603943,Mississippi Burning,R,1/27/89,128,7.8,Gene Hackman,Chris Gerolmo,1988
+234,17000000,The Saul Zaentz Company,USA,Philip Kaufman,Drama,10006806,The Unbearable Lightness of Being,R,2/5/88,171,7.4,Daniel Day-Lewis,Milan Kundera,1988
+235,12500000,Universal Pictures,USA,Don Bluth,Animation,48092846,The Land Before Time,G,11/18/88,69,7.4,Pat Hingle,Stu Krieger,1988
+236,6000000,Paramount Pictures,Canada,Jonathan Kaplan,Drama,32069318,Acusados,R,10/14/88,111,7.1,Kelly McGillis,Tom Topor,1988
+237,13000000,New Line Cinema,USA,Renny Harlin,Horror,49369899,A Nightmare on Elm Street 4: The Dream Master,R,8/19/88,93,5.7,Robert Englund,Wes Craven,1988
+238,7000000,The Mount Company,USA,Ron Shelton,Comedy,50888729,Bull Durham,R,6/15/88,108,7.1,Kevin Costner,Ron Shelton,1988
+239,7500000,NBC Productions,USA,James Signorelli,Comedy,5596267,Elvira: Mistress of the Dark,PG-13,9/30/88,96,6.4,Cassandra Peterson,Sam Egan,1988
+240,10000000,De Laurentiis Entertainment Group (DEG),UK,Julien Temple,Comedy,3916303,Earth Girls Are Easy,PG,5/12/89,100,5.2,Geena Davis,Julie Brown,1988
+241,0,American Playhouse,USA,RamÑn Men_ndez,Drama,13994920,Stand and Deliver,PG,3/11/88,103,7.3,Edward James Olmos,RamÑn Men_ndez,1988
+242,13000000,Morgan Creek Productions,USA,Christopher Cain,Action,45661556,Young Guns,R,8/12/88,107,6.8,Emilio Estevez,John Fusco,1988
+243,0,Gaumont,France,Luc Besson,Adventure,3500000,The Big Blue,R,8/19/88,168,7.6,Jean-Marc Barr,Luc Besson,1988
+244,0,Orion Pictures,USA,Frank Oz,Comedy,42039085,Dirty Rotten Scoundrels,PG,12/14/88,110,7.3,Steve Martin,Dale Launer,1988
+245,3000000,Film Futures,UK,Tony Randel,Horror,11090735,Hellbound: Hellraiser II,R,12/23/88,97,6.5,Doug Bradley,Clive Barker,1988
+246,7000000,Orion Pictures,USA,George A. Romero,Drama,5344577,Monkey Shines,R,7/29/88,113,6.2,Jason Beghe,Michael Stewart,1988
+247,2000000,New Line Cinema,USA,John Waters,Comedy,6671108,Hairspray,PG,2/26/88,92,7,Sonny Bono,John Waters,1988
+248,10000000,Orion Pictures,USA,Jonathan Demme,Comedy,21486757,Married to the Mob,R,8/19/88,104,6.1,Michelle Pfeiffer,Barry Strugatz,1988
+249,0,DDM Film Corporation,USA,Zalman King,Drama,1547397,Two Moon Junction,R,4/29/88,104,5,Sherilyn Fenn,Zalman King,1988
